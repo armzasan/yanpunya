@@ -1,1 +1,2 @@
 print("arm")
+print("arms")
